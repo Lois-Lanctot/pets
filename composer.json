@@ -1,0 +1,13 @@
+{
+  "name": "lois/328/pets",
+  "description": "Pets Pair Program",
+  "authors": [
+    {
+      "name": "Lois Lanctot",
+      "email": "lanctot.lois@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
